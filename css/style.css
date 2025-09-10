@@ -37,6 +37,10 @@ svg {
   max-width: 100%;
 }
 
+main {
+  padding: 0.9rem;
+}
+
 .blog__card {
   background-color: var(--white);
   border: 1px solid var(--gray-950);
